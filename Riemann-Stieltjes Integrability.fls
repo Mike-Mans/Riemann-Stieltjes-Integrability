@@ -1,0 +1,105 @@
+PWD /Users/michaelmansour/Documents/MATH131A_UCLA
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf.cnf
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/michaelmansour/Documents/MATH131A_UCLA/Riemann-Stieltjes Integrability.tex
+OUTPUT Riemann-Stieltjes Integrability.log
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/base/report.cls
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/base/report.cls
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./Riemann-Stieltjes Integrability.aux
+INPUT ./Riemann-Stieltjes Integrability.aux
+INPUT Riemann-Stieltjes Integrability.aux
+OUTPUT Riemann-Stieltjes Integrability.aux
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+OUTPUT Riemann-Stieltjes Integrability.pdf
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./PDF_CDF.png
+INPUT ./PDF_CDF.png
+INPUT ./PDF_CDF.png
+INPUT ./PDF_CDF.png
+INPUT ./PDF_CDF.png
+INPUT ./One-To-One Example.png
+INPUT ./One-To-One Example.png
+INPUT ./One-To-One Example.png
+INPUT ./One-To-One Example.png
+INPUT ./One-To-One Example.png
+INPUT ./Exercise 1.png
+INPUT ./Exercise 1.png
+INPUT ./Exercise 1.png
+INPUT ./Exercise 1.png
+INPUT ./Exercise 1.png
+INPUT ./Exercise 2.png
+INPUT ./Exercise 2.png
+INPUT ./Exercise 2.png
+INPUT ./Exercise 2.png
+INPUT ./Exercise 2.png
+INPUT Riemann-Stieltjes Integrability.aux
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/michaelmansour/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
